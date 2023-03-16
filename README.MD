@@ -2,6 +2,7 @@
 
 # Animated Icon
 - A fix to create animated icons for your own website
+- Easy to understand, easy to use
 
 ## License
     Copyright (C) 2023  jaxx
