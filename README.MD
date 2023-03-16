@@ -1,8 +1,9 @@
 [![License: GPL v3+](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # Animated Icon
-- A fix to create animated icons for your own website
-- Easy to understand, easy to use
+- A fix to create animated icons for your own website.
+- Easy to understand, easy to use.
+- If, for some reason, it still doesn't work for you, open an issue to this repository, and I'll try my best assisting you in this matter.
 
 ## License
     Copyright (C) 2023  jaxx
