@@ -17,4 +17,3 @@ window.onload = function() {
       counter = 1;
   }, 5);
 };
-console.log('The animated icon function was created by\njaxx on discord\nhttps://discordapp.com/users/922843169480122388/');
